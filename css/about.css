@@ -1,0 +1,104 @@
+                                                                                                        .about {
+                                                                                                            height: 737px;
+                                                                                                            background-color: #ffffff;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .about .wrapper {
+                                                                                                            width: 1187px;
+                                                                                                            margin: auto;
+                                                                                                            position: relative;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .abouttext {
+                                                                                                            text-align: center;
+                                                                                                            font-family: "OpenSans";
+                                                                                                            color: #7e8287;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .abouttext h1 {
+                                                                                                            font-size: 46px;
+                                                                                                            color: #02918c;
+                                                                                                            font-weight: bold;
+                                                                                                            margin-top: 98px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .abouttext p {
+                                                                                                            padding-top: 10px;
+                                                                                                            padding-bottom: 10px;
+                                                                                                            font-size: 16px;
+                                                                                                            font-weight: normal;
+                                                                                                            line-height: 40px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        #abouttextp {
+                                                                                                            font-size: 23px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .aboutul {
+                                                                                                            float: left;
+                                                                                                            width: 100%;
+                                                                                                            text-align: center;
+                                                                                                            margin-top: 80px;
+                                                                                                            font-family: "OpenSans";
+                                                                                                        }
+                                                                                                        
+                                                                                                        .aboutul h1 {
+                                                                                                            font-size: 16px;
+                                                                                                            color: #7e8287;
+                                                                                                            padding-bottom: 29px;
+                                                                                                            padding-top: 30px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .aboutul p {
+                                                                                                            font-size: 11px;
+                                                                                                            color: #7e8287;
+                                                                                                            letter-spacing: 0.2px;
+                                                                                                            line-height: 22px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .lamp {
+                                                                                                            display: inline-block;
+                                                                                                            text-align: center;
+                                                                                                            padding: 38px 60px 38px 60px;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .pencil {
+                                                                                                            display: inline-block;
+                                                                                                            text-align: center;
+                                                                                                            padding: 38px 60px 38px 60px;
+                                                                                                            border-left: 1px solid #d9dbdb;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .circle {
+                                                                                                            display: inline-block;
+                                                                                                            text-align: center;
+                                                                                                            padding: 38px 60px 38px 60px;
+                                                                                                            border-left: 1px solid #d9dbdb;
+                                                                                                        }
+                                                                                                        
+                                                                                                        .computer {
+                                                                                                            display: inline-block;
+                                                                                                            text-align: center;
+                                                                                                            padding: 38px 60px 38px 60px;
+                                                                                                            border-left: 1px solid #d9dbdb;
+                                                                                                        }
+                                                                                                        
+                                                                                                        @media all and (max-width:768px) {
+                                                                                                            header {
+                                                                                                                height: 100%;
+                                                                                                            }
+                                                                                                            .about .wrapper {
+                                                                                                                width: 100%;
+                                                                                                            }
+                                                                                                            .lamp,
+                                                                                                            .pencil,
+                                                                                                            .circle,
+                                                                                                            .computer {
+                                                                                                                float: none;
+                                                                                                                display: inline-block;
+                                                                                                                text-align: center;
+                                                                                                                height: 100%;
+                                                                                                                padding: 8px 6px 8px 6px;
+                                                                                                                border: none;
+                                                                                                            }
+                                                                                                        }

@@ -1,0 +1,77 @@
+        .topnavigation {
+            height: 728px;
+            background-image: url(../images/header.png);
+            background-size: cover;
+            background-position: 50% 50%;
+        }
+        
+        .topnavigation .wrapper {
+            width: 1187px;
+            margin: auto;
+            position: relative;
+        }
+        
+        .toptext {
+            color: #ffffff;
+            text-align: center;
+            font-family: "OpenSans";
+            padding-top: 212px;
+        }
+        
+        .toptext h3 {
+            font-size: 30px;
+            font-weight: normal;
+        }
+        
+        .toptext h1 {
+            font-size: 68px;
+            letter-spacing: 29px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        
+        .toptext p {
+            font-size: 18px;
+            margin-bottom: 52px;
+        }
+        
+        .button {
+            text-align: center;
+            margin-top: 65px;
+        }
+        
+        .button a {
+            text-align: center;
+            width: 196px;
+            padding: 19px 42px 19px 42px;
+            background-color: #cfc91d;
+            text-decoration: none;
+            color: #0b1016;
+            font-size: 14px;
+            font-family: "OpenSans";
+            font-weight: bold;
+            letter-spacing: 3px;
+            word-spacing: 5px;
+        }
+        
+        @media screen and (max-width:768px) {
+            .topnavigation {
+                height: auto;
+                min-height: 550px;
+            }
+            .topnavigation .wrapper {
+                width: 100%;
+            }
+            .toptext {
+                padding-top: 100px;
+            }
+            .toptext h1 {
+                font-size: 45px;
+            }
+        }
+        
+        @media screen and (max-width:360px) {
+            .topnavigation {
+                min-height: 650px;
+            }
+        }

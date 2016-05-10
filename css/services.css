@@ -1,0 +1,144 @@
+                                                                                                                                                                                    .services {
+                                                                                                                                                                                        height: 820px;
+                                                                                                                                                                                        background-image: url(../images/hand.png);
+                                                                                                                                                                                        background-position: 50% 50%;
+                                                                                                                                                                                        background-repeat: no-repeat;
+                                                                                                                                                                                        background-size: cover;
+                                                                                                                                                                                        clear: both;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .services .wrapper {
+                                                                                                                                                                                        width: 1187px;
+                                                                                                                                                                                        position: relative;
+                                                                                                                                                                                        margin: auto;
+                                                                                                                                                                                        font-family: "OpenSans";
+                                                                                                                                                                                        color: #7e8287;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .services .contentWrapper {
+                                                                                                                                                                                        float: left;
+                                                                                                                                                                                        margin-left: 45px;
+                                                                                                                                                                                        color: #7e8287;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .servText> h1 {
+                                                                                                                                                                                        margin-top: 74px;
+                                                                                                                                                                                        font-size: 46px;
+                                                                                                                                                                                        color: #02918c;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    #lor {
+                                                                                                                                                                                        line-height: 40px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .servText p {
+                                                                                                                                                                                        font-size: 16px;
+                                                                                                                                                                                        margin-bottom: 54px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .servText .lines {
+                                                                                                                                                                                        margin-top: 43px;
+                                                                                                                                                                                        margin-bottom: 30px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .topul {
+                                                                                                                                                                                        text-align: left;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .topul h1 {
+                                                                                                                                                                                        font-size: 16px;
+                                                                                                                                                                                        margin-top: 19px;
+                                                                                                                                                                                        padding-top: 0px;
+                                                                                                                                                                                        margin-bottom: 19px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .topul p {
+                                                                                                                                                                                        font-size: 11px;
+                                                                                                                                                                                        word-spacing: 1px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .topul li {
+                                                                                                                                                                                        display: inline;
+                                                                                                                                                                                        list-style: none;
+                                                                                                                                                                                        line-height: 20px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .globe {
+                                                                                                                                                                                        display: inline-block;
+                                                                                                                                                                                        text-align: left;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .lupa {
+                                                                                                                                                                                        display: inline-block;
+                                                                                                                                                                                        text-align: left;
+                                                                                                                                                                                        padding-left: 100px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .servicesul {
+                                                                                                                                                                                        text-align: left;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .servicesul li {
+                                                                                                                                                                                        display: inline;
+                                                                                                                                                                                        line-height: 20px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .clock {
+                                                                                                                                                                                        display: inline-block;
+                                                                                                                                                                                        text-align: left;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .grafik {
+                                                                                                                                                                                        text-align: left;
+                                                                                                                                                                                        display: inline-block;
+                                                                                                                                                                                        padding-left: 100px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .servicesul h1 {
+                                                                                                                                                                                        font-size: 16px;
+                                                                                                                                                                                        margin-top: 19px;
+                                                                                                                                                                                        padding-top: 0px;
+                                                                                                                                                                                        margin-bottom: 19px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .servicesul p {
+                                                                                                                                                                                        font-size: 11px;
+                                                                                                                                                                                        word-spacing: 1px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    @media all and (max-width:768px) {
+                                                                                                                                                                                        .services {
+                                                                                                                                                                                            height: 100%;
+                                                                                                                                                                                            clear: both;
+                                                                                                                                                                                        }
+                                                                                                                                                                                        .services .wrapper {
+                                                                                                                                                                                            width: auto;
+                                                                                                                                                                                            margin: auto;
+                                                                                                                                                                                            text-align: center;
+                                                                                                                                                                                        }
+                                                                                                                                                                                        .services .contentWrapper {
+                                                                                                                                                                                            margin-left: 10px;
+                                                                                                                                                                                            float: none;
+                                                                                                                                                                                            text-align: center;
+                                                                                                                                                                                        }
+                                                                                                                                                                                        .globe,
+                                                                                                                                                                                        .lupa,
+                                                                                                                                                                                        .clock,
+                                                                                                                                                                                        .grafik {
+                                                                                                                                                                                            float: none;
+                                                                                                                                                                                            display: inline-block;
+                                                                                                                                                                                            text-align: center;
+                                                                                                                                                                                            padding-right: 25px;
+                                                                                                                                                                                            padding-left: 25px;
+                                                                                                                                                                                        }
+                                                                                                                                                                                        .servicesul {
+                                                                                                                                                                                            padding-left: 0px;
+                                                                                                                                                                                            text-align: center;
+                                                                                                                                                                                        }
+                                                                                                                                                                                        .grafik {
+                                                                                                                                                                                            margin-top: 50px;
+                                                                                                                                                                                        }
+                                                                                                                                                                                        .topul {
+                                                                                                                                                                                            text-align: center;
+                                                                                                                                                                                        }
+                                                                                                                                                                                    }

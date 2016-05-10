@@ -1,0 +1,74 @@
+                        header {
+                            height: 61px;
+                            background-color: #02918c;
+                        }
+                        
+                        header .wrapper {
+                            position: relative;
+                            margin: auto;
+                            width: 1187px;
+                        }
+                        
+                        header h1 {
+                            float: left;
+                            padding-top: 10px;
+                            margin: 0px;
+                            text-align: left;
+                            font-size: 26.18px;
+                            color: #ffffff;
+                            font-family: "OpenSans";
+                            font-weight: bold;
+                            display: block;
+                        }
+                        
+                        header .wrapper ul {
+                            text-align: right;
+                            padding-top: 20px;
+                        }
+                        
+                        header li {
+                            display: inline;
+                            padding-right: 25px;
+                            padding-left: 25px;
+                        }
+                        
+                        header a {
+                            text-decoration: none;
+                            color: #ffffff;
+                            font-family: "OpenSans";
+                            font-size: 12px;
+                            padding-top: 0px;
+                            font-weight: bold;
+                        }
+                        
+                        header a:hover {
+                            
+                          color: #cfc91d;
+                        }
+                        
+                        #folio {
+                            color: #cfc91d;
+                        }
+                        
+                        @media screen and (max-width:768px) {
+                            header {
+                                height: auto;
+                            }
+                            header .wrapper {
+                                width: 100%;
+                            }
+                            header li {
+                                display: inline-block;
+                                padding-right: 20px;
+                                padding-left: 20px;
+                            }
+                            header .wrapper ul {
+                                padding-bottom: 20px;
+                            }
+                        }
+                        
+                        @media screen and (max-width:360px) {
+                            header li {
+                                display: block;
+                            }
+                        }

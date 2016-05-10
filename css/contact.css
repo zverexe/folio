@@ -1,0 +1,39 @@
+.contact {
+    height: 300px;
+    background-color: #ffffff;
+}
+
+.contact .wrapper {
+    width: 1187px;
+    margin: auto;
+    font-family: "OpenSans";
+    text-align: center;
+    color: #7e8287;
+}
+
+.contact h1 {
+    font-size: 46px;
+    color: #02918c;
+    margin-top: 95px;
+}
+
+.contact p {
+    font-size: 16px;
+}
+
+.lorem {
+    line-height: 45px;
+}
+
+.contact .lines {
+    margin: 20px;
+}
+
+@media all and (max-width:768px) {
+    .contact {
+        height: 100%;
+    }
+    .contact .wrapper {
+        width: auto;
+    }
+}
